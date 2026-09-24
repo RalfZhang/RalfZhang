@@ -26,20 +26,12 @@
 ### 🚀 Things I've built
 
 <table>
-<tr>
+<tbody><tr>
 <td width="50%" valign="top">
 
 🗺️ **[InkCity](https://github.com/RalfZhang/ink-city)**<br>
 Your desktop wallpaper, redrawn every day as a different city's road map.<br>
 <sub>Tauri · Rust · React · [Write-up](https://blog.ralfz.com/en/2026/10/07/ink-city-app/)</sub>
-
-🎓 **[CSTU Course Enrollment](https://short.cstu.cloud)**<br>
-The university's live enrollment platform. I lead its development.<br>
-<sub>Next.js · Prisma · Stripe · GCP · [Code](https://github.com/CSTU-dev/cstu-short-term-course-website)</sub>
-
-🎬 **[Vdo](https://github.com/RalfZhang/Vdo)**<br>
-Douban, rebuilt as a Material Design single-page app.<br>
-<sub>Vue · 260+ ★</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -48,16 +40,40 @@ Douban, rebuilt as a Material Design single-page app.<br>
 A VS Code extension that starts every new file from a template.<br>
 <sub>TypeScript · 36k+ installs</sub>
 
+</td>
+</tr></tbody>
+<tbody><tr>
+<td width="50%" valign="top">
+
+🎓 **[CSTU Course Enrollment](https://short.cstu.cloud)**<br>
+The university's live enrollment platform. I lead its development.<br>
+<sub>Next.js · Prisma · Stripe · GCP · [Code](https://github.com/CSTU-dev/cstu-short-term-course-website)</sub>
+
+</td>
+<td width="50%" valign="top">
+
 🦊 **[FoxAuth](https://github.com/FoxAuth/FoxAuth)**<br>
 A Firefox authenticator that autofills TOTP codes. I built its popup and autofill.<br>
 <sub>WebExtensions · 90+ ★</sub>
+
+</td>
+</tr></tbody>
+<tbody><tr>
+<td width="50%" valign="top">
+
+🎬 **[Vdo](https://github.com/RalfZhang/Vdo)**<br>
+Douban, rebuilt as a Material Design single-page app.<br>
+<sub>Vue · 260+ ★</sub>
+
+</td>
+<td width="50%" valign="top">
 
 🔔 **[Big Ben](https://github.com/RalfZhang/big-ben)**<br>
 A clock tower for social media. Every hour, on the hour: BONG!<br>
 <sub>Node.js · Docker · Douban, Threads, Mastodon</sub>
 
 </td>
-</tr>
+</tr></tbody>
 </table>
 
 ### 🧰 Toolbox
