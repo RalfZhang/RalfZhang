@@ -1,4 +1,4 @@
-# Keeps the "Writing" lists in README.md and README.zh-CN.md in step with the
+# Keeps the blog post lists in README.md and README.zh-CN.md in step with the
 # blog's Atom feeds. Runs daily, or by hand from the Actions tab.
 #
 # GitHub pauses scheduled workflows after 60 days without activity in the

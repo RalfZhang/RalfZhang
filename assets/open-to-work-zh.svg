@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111 36" width="111" height="36" role="img">
+<title>正在求职</title>
+<style>
+.pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+@keyframes pulse { from { transform: scale(1); opacity: 0.6; } to { transform: scale(2.6); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .pulse { animation: none; opacity: 0; } }
+</style>
+<rect width="111" height="36" rx="18" fill="#1f883d"/>
+<circle class="pulse" cx="21" cy="18" r="4.5" fill="#fff"/>
+<circle cx="21" cy="18" r="4.5" fill="#fff"/>
+<text x="34" y="23" textLength="60" lengthAdjust="spacingAndGlyphs" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="15" font-weight="600">正在求职</text>
+</svg>

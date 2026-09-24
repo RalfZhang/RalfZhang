@@ -1,51 +1,77 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RalfZhang/RalfZhang/main/assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RalfZhang/RalfZhang/main/assets/banner-light.svg">
   <img alt="Road map of Xi'an's old walled city, drawn in ink in the style of InkCity" src="https://raw.githubusercontent.com/RalfZhang/RalfZhang/main/assets/banner-light.svg">
 </picture>
 
-# Hi, I'm Ralf
+# Hi, I'm Ralf 👋
 
-I'm a senior software engineer in the Bay Area, focused on frontend and full-stack web development. Most recently I worked on growth at **Tubi** and collaborative documents at **Alibaba**, both at 100-million-user scale. I care most about performance, user experience and developer productivity.
+**Frontend & full-stack engineer** · previously built for 100M+ users at **Tubi** and **Alibaba**
 
-**Open to work:** senior frontend and full-stack roles, in the Bay Area or with relocation. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/weikang-zhang).
+<p><a href="https://www.linkedin.com/in/weikang-zhang"><img alt="Open to work" src="https://raw.githubusercontent.com/RalfZhang/RalfZhang/main/assets/open-to-work.svg"></a><br>
+<sub>📍 Bay Area · open to relocation · let's talk on LinkedIn</sub></p>
 
-[Website](https://ralfz.com/en/) · [Blog](https://blog.ralfz.com/en/) · [LinkedIn](https://www.linkedin.com/in/weikang-zhang) · [中文](https://github.com/RalfZhang/RalfZhang/blob/main/README.zh-CN.md)
+[🏠 Website](https://ralfz.com/en/) · [📝 Blog](https://blog.ralfz.com/en/) · [🤝 LinkedIn](https://www.linkedin.com/in/weikang-zhang) · [🌏 中文](https://github.com/RalfZhang/RalfZhang/blob/main/README.zh-CN.md)
 
-## Experience
+</div>
 
-**Tubi** · 2022–2025\
-Led frontend for onboarding and growth on a streaming platform with 100 million users. Raised the sign-up rate from about 40% to 60% through A/B testing, cut LCP from 4.2 s to 2.5 s and CLS from 0.48 to 0, and built the team's tooling: ESLint rules, Storybook and CI.
+### 💼 Experience
 
-**Alibaba** · 2019–2022\
-Built DingTalk Docs, a collaborative document platform with over 100 million users. Designed its sharing and permission system and shipped it as an SDK that other product teams adopted. Also built messaging components for DingTalk, used by over 700 million people.
+- **Tubi** · 2022–2025 — led onboarding & growth for 100M users: sign-ups **40% → 60%**, LCP **4.2 s → 2.5 s**
+- **Alibaba** · 2019–2022 — built DingTalk Docs (100M+ users) and its sharing & permission SDK
+- **Earlier** · 2014–2019 — frontend at WTOIP and Kuaizi Tech (wrote [Zender](https://github.com/RalfZhang/Zender)), full stack at Moonew
 
-**Earlier** · 2014–2019\
-Frontend at WTOIP and Kuaizi Tech; at Kuaizi I wrote [Zender](https://github.com/RalfZhang/Zender), an MVVM framework the team adopted. I started out full stack at Moonew, on ASP.NET and SQL Server.
+### 🚀 Things I've built
 
-## Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **[InkCity](https://github.com/RalfZhang/ink-city)**: your desktop wallpaper, redrawn every day as the road map of a different city. A Tauri app in Rust, React and TypeScript for macOS, Windows and Linux. ([Write-up](https://blog.ralfz.com/en/2026/10/07/ink-city-app/))
-- **[CSTU Course Enrollment](https://short.cstu.cloud)**: the production enrollment platform for California Science and Technology University. I lead its development: Next.js, Prisma, PostgreSQL and Stripe, on GCP Cloud Run. ([Code](https://github.com/CSTU-dev/cstu-short-term-course-website))
-- **[File Template](https://marketplace.visualstudio.com/items?itemName=RalfZhang.filetemplate)**: a VS Code extension that starts every new file from a template, header and boilerplate included. 36,000+ installs since 2017.
-- **[FoxAuth](https://github.com/FoxAuth/FoxAuth)**: a Firefox authenticator that autofills TOTP codes. I built its popup and autofill.
-- **[Vdo](https://github.com/RalfZhang/Vdo)**: Douban, rebuilt as a Material Design single-page app in Vue. 260+ stars.
-- **[Big Ben](https://github.com/RalfZhang/big-ben)**: a clock tower for social media. Every hour, on the hour: BONG! On Douban, Threads and Mastodon at once.
+🗺️ **[InkCity](https://github.com/RalfZhang/ink-city)**<br>
+Your desktop wallpaper, redrawn every day as a different city's road map.<br>
+<sub>Tauri · Rust · React · [Write-up](https://blog.ralfz.com/en/2026/10/07/ink-city-app/)</sub>
 
-## Tech
+🎓 **[CSTU Course Enrollment](https://short.cstu.cloud)**<br>
+The university's live enrollment platform. I lead its development.<br>
+<sub>Next.js · Prisma · Stripe · GCP · [Code](https://github.com/CSTU-dev/cstu-short-term-course-website)</sub>
 
-- **Frontend:** TypeScript, React, Next.js, Vue, Redux, Storybook, Webpack, Vite
-- **Backend:** Node.js, Express, Prisma, PostgreSQL, ASP.NET Core, SQL Server
-- **Testing & infra:** Jest, Cypress, Playwright, Docker, AWS, GCP Cloud Run, GitHub Actions
-- **Desktop & extensions:** Rust, Tauri, VS Code API, WebExtensions
+🎬 **[Vdo](https://github.com/RalfZhang/Vdo)**<br>
+Douban, rebuilt as a Material Design single-page app.<br>
+<sub>Vue · 260+ ★</sub>
 
-## Writing
+</td>
+<td width="50%" valign="top">
+
+🧩 **[File Template](https://marketplace.visualstudio.com/items?itemName=RalfZhang.filetemplate)**<br>
+A VS Code extension that starts every new file from a template.<br>
+<sub>TypeScript · 36k+ installs</sub>
+
+🦊 **[FoxAuth](https://github.com/FoxAuth/FoxAuth)**<br>
+A Firefox authenticator that autofills TOTP codes. I built its popup and autofill.<br>
+<sub>WebExtensions · 90+ ★</sub>
+
+🔔 **[Big Ben](https://github.com/RalfZhang/big-ben)**<br>
+A clock tower for social media. Every hour, on the hour: BONG!<br>
+<sub>Node.js · Docker · Douban, Threads, Mastodon</sub>
+
+</td>
+</tr>
+</table>
+
+### 🧰 Toolbox
+
+`TypeScript` `React` `Next.js` `Vue` `Node.js` `Rust` `PostgreSQL` `Storybook` `Jest` `Playwright` `Docker` `AWS`
+
+### ✍️ Latest writing
 
 <!-- posts:start -->
 - [InkCity Retrospective: A Wallpaper That Draws a New City Every Day, and the Pitfalls Behind It](https://blog.ralfz.com/en/2026/10/07/ink-city-app/)
 - [Starting from a Problem on Euler's Totient Function](https://blog.ralfz.com/en/2019/01/14/euler-s-totient-function/)
 - [Getting Started with Travis CI](https://blog.ralfz.com/en/2018/01/25/travis-ci-introduction/)
-- [Ngrok Setup Guide: Exposing a Local Machine to the Internet](https://blog.ralfz.com/en/2017/12/28/ngrok-tutorial/)
 <!-- posts:end -->
 
-More posts, in English and Chinese, at [blog.ralfz.com](https://blog.ralfz.com/en/).
+<sub>[More posts →](https://blog.ralfz.com/en/)</sub>
+
+<div align="center"><sub>Banner drawn from OpenStreetMap data · <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a></sub></div>

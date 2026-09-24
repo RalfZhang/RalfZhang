@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Refreshes the "Writing" lists in the READMEs from the blog's Atom feeds: the
+ * Refreshes the blog post lists in the READMEs from the blog's Atom feeds: the
  * English README lists the English posts, the Chinese one the Chinese posts.
  *
  * Each list sits between <!-- posts:start --> and <!-- posts:end -->. Nothing
@@ -16,7 +16,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const COUNT = 4; // posts per list
+const COUNT = 3; // posts per list
 
 const TARGETS = [
   { file: "README.md", feed: "https://blog.ralfz.com/en/atom.xml" },
