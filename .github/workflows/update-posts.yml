@@ -1,0 +1,35 @@
+# Keeps the "Writing" lists in README.md and README.zh-CN.md in step with the
+# blog's Atom feeds. Runs daily, or by hand from the Actions tab.
+#
+# GitHub pauses scheduled workflows after 60 days without activity in the
+# repository. If that happens, re-enable this one from the Actions tab.
+name: Update blog posts
+
+on:
+  schedule:
+    - cron: "23 4 * * *" # daily, off the hour, when Actions is less busy
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-posts
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # The runner's preinstalled Node is enough: the script only needs fetch.
+      - run: node scripts/update-posts.mjs
+
+      - name: Commit if a list changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update blog posts"
+          git push
