@@ -29,44 +29,28 @@
 <tbody><tr>
 <td width="50%" valign="top">
 
-🗺️ **[InkCity](https://github.com/RalfZhang/ink-city)**<br>
-你的桌面壁纸，每天换成一座不同城市的路网地图。<br>
-<sub>Tauri · Rust · React · [开发复盘](https://blog.ralfz.com/2026/10/07/ink-city-app/)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-🧩 **[File Template](https://marketplace.visualstudio.com/items?itemName=RalfZhang.filetemplate)**<br>
-让每个新文件都从模板开始的 VS Code 扩展。<br>
-<sub>TypeScript · 3.6 万+ 次安装</sub>
-
-</td>
-</tr></tbody>
-<tbody><tr>
-<td width="50%" valign="top">
-
 🎓 **[CSTU 课程报名平台](https://short.cstu.cloud)**<br>
 这所大学正在使用的课程报名平台，由我主导开发。<br>
 <sub>Next.js · Prisma · Stripe · GCP · [代码](https://github.com/CSTU-dev/cstu-short-term-course-website)</sub>
 
-</td>
-<td width="50%" valign="top">
-
-🦊 **[FoxAuth](https://github.com/FoxAuth/FoxAuth)**<br>
-能自动填充 TOTP 验证码的 Firefox 扩展，弹窗和自动填充由我开发。<br>
-<sub>WebExtensions · 90+ Star</sub>
-
-</td>
-</tr></tbody>
-<tbody><tr>
-<td width="50%" valign="top">
+🧩 **[File Template](https://marketplace.visualstudio.com/items?itemName=RalfZhang.filetemplate)**<br>
+让每个新文件都从模板开始的 VS Code 扩展。<br>
+<sub>TypeScript · 3.6 万+ ⏬</sub>
 
 🎬 **[微豆 Vdo](https://github.com/RalfZhang/Vdo)**<br>
 用 Material Design 重做的单页版豆瓣。<br>
-<sub>Vue · 260+ Star · [教程](https://blog.ralfz.com/2017/04/04/vdo/)</sub>
+<sub>Vue · 260+ ⭐ · [教程](https://blog.ralfz.com/2017/04/04/vdo/)</sub>
 
 </td>
 <td width="50%" valign="top">
+
+🗺️ **[InkCity](https://github.com/RalfZhang/ink-city)**<br>
+你的桌面壁纸，每天换成一座不同城市的路网地图。<br>
+<sub>Tauri · Rust · React · [开发复盘](https://blog.ralfz.com/2026/10/07/ink-city-app/)</sub>
+
+🦊 **[FoxAuth](https://github.com/FoxAuth/FoxAuth)**<br>
+能自动填充 TOTP 验证码的 Firefox 扩展，弹窗和自动填充由我开发。<br>
+<sub>WebExtensions · 90+ ⭐</sub>
 
 🔔 **[大笨钟](https://github.com/RalfZhang/big-ben)**<br>
 社交网络上的钟楼。每到整点：咣！<br>
@@ -78,7 +62,7 @@
 
 ### 🧰 技术栈
 
-`TypeScript` `React` `Next.js` `Vue` `Node.js` `Rust` `PostgreSQL` `Storybook` `Jest` `Playwright` `Docker` `AWS`
+`TypeScript` `React` `Node.js` `Next.js` `Rust` `Python` `PostgreSQL` `Storybook` `Jest` `Playwright` `Docker` `AWS` `GCP` `Vue` `Tauri` `WebExtensions`
 
 ### ✍️ 最新文章
 
