@@ -64,6 +64,13 @@
 
 `TypeScript` `React` `Node.js` `Next.js` `Rust` `Python` `PostgreSQL` `Storybook` `Jest` `Playwright` `Docker` `AWS` `GCP` `Vue` `Tauri` `WebExtensions`
 
+### 🤖 AI 实践
+
+- 调用 LLM API（Claude、Gemini）并使用结构化输出
+- 用 LLM-as-judge 做评测
+- 通过 Ollama 和 Hugging Face diffusers（SDXL）跑本地模型
+- 日常用 Claude Code（sub-agent、MCP）辅助开发
+
 ### ✍️ 最新文章
 
 <!-- posts:start -->

@@ -66,6 +66,13 @@ A clock tower for social media. Every hour, on the hour: BONG!<br>
 
 `TypeScript` `React` `Node.js` `Next.js` `Rust` `Python` `PostgreSQL` `Storybook` `Jest` `Playwright` `Docker` `AWS` `GCP` `Vue` `Tauri` `WebExtensions`
 
+### 🤖 AI engineering
+
+- LLM APIs (Claude, Gemini) with structured outputs
+- LLM-as-judge evaluation
+- Local models via Ollama and Hugging Face diffusers (SDXL)
+- Daily AI-assisted development with Claude Code (sub-agents, MCP)
+
 ### ✍️ Latest writing
 
 <!-- posts:start -->
